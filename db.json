@@ -1,43 +1,43 @@
 {
   "bebidas": [
     {
-        "id": "1",
+        "id": 1,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Jack Daniels Maça",
         "foto": "https://media.soujusto.com.br/products/9102.png",
         "price": 140.0
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Jack Daniels",
         "foto": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
         "price": 140.0
