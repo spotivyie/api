@@ -43,18 +43,126 @@
         "quantity": 0
     }  
   ],
-  "cervejas": [
+  "vodka": [
     {
       "id": 1,
-      "name": "Whisky Jack Daniels Honey 1L",
-      "image": "https://www.planetaaguaadega.com.br/uploads/img/550/whisky-jack-daniels-honey-1l-6a2c37e1605a5011fdb2d86cc06f1166.webp",
-      "price": 159.0
+      "name": "Vodka Smirnoff 1,75 Litros",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_Ss5N1bceL6e2uUk7vXcBbs5RGCndmSYL0aIHTkOo4tdJVYIqERZmC9gcUxt-0naZsSAlLmh8ao_84z5wg8zl6hAYFUokPQWeuJAORorTEtUYm28NtAIc",
+      "price": 59.0,
+      "quantity": 0
     },
     {
       "id": 2,
-      "name": "Whisky Jack Daniels Honey 1L",
-      "image": "https://www.planetaaguaadega.com.br/uploads/img/550/whisky-jack-daniels-honey-1l-6a2c37e1605a5011fdb2d86cc06f1166.webp",
-      "price": 159.0
+      "name": "Smirnoff 998ml - Vodka",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQG7ANJMCpkt6C9bdOnm0iQO6TmvRZOhojhV60N99GP7ovUN1WZcTc5hQoln828aXOy2O1ttswjbC90YDl4slkA3DdJrQXE-6PFz-6nCPT",
+      "price": 43.0,
+      "quantity": 0
+    }
+  ],
+  "gin": [
+    {
+      "id": 1,
+      "name": "Gin Eternity Diversos Sabores - 900ml Melancia/Watermelon",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRR66tqChbuj_mq2JsqRQ5gEcuiZ-gdQTgfV11ZaoDb5jA0TDsp5YXRbrkgCb_vTrD8mhEeIBFRU2xgKWhxxUNXnUDn0tX1wWs5wyqwwC8XkmWYCraTSD4Vtg",
+      "price": 35.90,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Gin Strawberry Intencion 900ml",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQD1dYJLSI19Mj6gwKRi9z6M3SigeKc-_67modN9QXNW9XUfsHTvyKTgcaogNwQhw85p4g-_9zKNi_3DXcMlV-QPlBMvOnW7fKiyO8nqh5-iyJ53YTP71t1Zg",
+      "price": 29.90,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Gin London Intencion 900ml",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkGUnTEYxERJT47FA6lepguNGH2xzCraWxe3G573ts_60l5EVuJ284toy2ev7h216QQvB8WxTBWdlmB54c91blnKUjqWrOS8KuC49RtjTsgJ9ZNDgtNO2GEA",
+      "price": 29.90,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Gin Rocks Strawberry 1L - Rock's",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyzCJx0xv0s2XdjMwaCStZU6gOc_EWfEiJNLFNeNyhTOTwgciUaU6S8TsfB1VqwXsHwRuWRkQTH_YjP0rcrMt1XMaoGX1i-1RVzi6jOd1oa7od4bn_ROaW",
+      "price": 34.90,
+      "quantity": 0
+    }
+  ],
+  "licor": [
+    {
+      "id": 1,
+      "name": "Licor - 43 700ml",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_hqVewD7L8RttcroWTldXFtxvHo3wrJGNRYA2p6cPgSrnSQcgb7rsQqMtpBcPMLfZRGYW20euGc3c-pEmzMZyAerYt4WFgZIQDWN4YvA",
+      "price": 119.90,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Licor Jagermeister 700ml",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTM1kS5sXiKtQ0rCGDqzPn6bbl_5lczCkBbBh_K2g8K8Knt59GVtaWFqnNG7INai5MTZBf_Xul1atYd-pCbnNkEyHMhVgPcOmZiVrhXOCjxWfVn8tGx-POv2g",
+      "price": 99.90,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Licor Creme De Cassis Stock 720 ml",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRf3-LyIG-Mryg3BVNBWSGJuUb552qoHsTSv-vAzBxtYGf0Ogt3lTBkGOEi4sq9sSVLeG5Z4vx_12ebYU0vZruVLNsI0rMxy-aQ62ph2ADzGGqTwwmPjyvC",
+      "price": 49.90,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Licor Disaronno 700 ml",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGkIOLMGppQ_TuvPBhdUozH24HiNci8RQIRAibyWoY1IB9rh-am4r1OfMCqmOFJYISzodKFdIJOcKrC87l8FTx7kbeFv2BbB-0DCVnxslWTp2xsj2ELBBe",
+      "price": 159.90,
+      "quantity": 0
+    }
+  ],
+  "vinho": [
+    {
+      "id": 1,
+      "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJWNV0Rlsx4yLsooyE-jO3irjWLYKnqmHW5HYMkOUV5wQDfEpGmcq496jDV_JL8h5xObhgJMgTcPkEqTnlGD7pRhPgdPmaR70N6X_40VN1Ey5kc4-ERwT_",
+      "price": 241.90,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Tonéletce Vinho Tinto Francês 750ml",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPuDQ_MnYwq4dU7dN8sreiVX9qz10oJWPSg2ts8atPVlFqKsldx9HV4wku0YSZbC4n8x1RKKaqRMlPXGBPyppDgFlCXBjG0J1d-T5mM4lQ",
+      "price": 99.90,
+      "quantity": 0
+    }
+  ],
+  "cervejas": [
+    {
+      "id": 1,
+      "name": "Brahma Pilsen 550ml - 12 Unidades",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQffNLxm_VD9E_pbk7VQxvjZqRJLA2SG5RNwtlad4uxz9qc7OJGMOzCaF-SIkU9tz7ufzhM7Z_Exxecfh_RsUYVhqk4vVywW9aCtYm2uxBlRrV09nEgp9G3",
+      "price": 38.90,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Cerveja Budweiser 550ml - 12 Unidades",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQplbrQVZL52YatQXd6KXllew3NuWgXKLabQiAWPOPrXF9c7odYDO3YOcItUS8i4MnrExNn8vpCpJ_YyZ2edYpNWCZwPHkKQI-Aa80t4lNtEGJ3ew8yJS5FxQ",
+      "price": 39.90,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Cerveja Puro Malte 269ml - 12 Unidades",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqDFmrGTdl10XaBQVQ0z77ws4sV2qAG8KPGaT-c9pr1x347qV4sAe-KreVmMJK7_CsKsHfA35dwuCANpsq4qwDGVNJWcn3z-MIyD0X77Yl6f9wLE0KzBltZg",
+      "price": 38.20,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Cerveja Lata Heineken 269ml - 12 Unidades",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWZNLqvFBbpdpadxVceBbcz--8D_8cYSJXjYLWMCPvJC-vXpL1uof_FNXyyLkLUpvDE96CqLkVw_MbFkud9MGLfQv6Vjo5Uuvat_zVI3dFExmUsK-sJ-47",
+      "price": 49.90,
+      "quantity": 0
     }
   ]
 }
