@@ -25,7 +25,7 @@
         "id": 4,
         "name": "Whisky Jack Daniels Apple 1L",
         "image": "https://media.soujusto.com.br/products/9102.png",
-        "price": "159.00",
+        "price": 159.00,
         "quantity": 0
     },
     {
