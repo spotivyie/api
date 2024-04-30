@@ -1,5 +1,5 @@
 {
-  "bebidas": [
+  "1": [
     {
         "id": 1,
         "name": "Whisky Jack Daniels 1L",
@@ -43,7 +43,7 @@
         "quantity": 0
     }  
   ],
-  "vodka": [
+  "2": [
     {
       "id": 1,
       "name": "Smirnoff 998ml - Vodka",
@@ -59,7 +59,7 @@
       "quantity": 0
     }
   ],
-  "gin": [
+  "3": [
     {
       "id": 1,
       "name": "Gin Eternity Diversos Sabores - 900ml Melancia/Watermelon",
@@ -89,7 +89,7 @@
       "quantity": 0
     }
   ],
-  "licor": [
+  "4": [
     {
       "id": 1,
       "name": "Licor - 43 700ml",
@@ -119,7 +119,7 @@
       "quantity": 0
     }
   ],
-  "vinho": [
+  "5": [
     {
       "id": 1,
       "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec",
@@ -135,7 +135,7 @@
       "quantity": 0
     }
   ],
-  "cervejas": [
+  "6": [
     {
       "id": 1,
       "name": "Brahma Pilsen 550ml - 12 Unidades",
