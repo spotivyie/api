@@ -4,42 +4,42 @@
         "id": 1,
         "name": "Whisky Jack Daniels 1L",
         "image": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
-        "price": 159.00,
+        "price": "159.00",
         "quantity": 0
     },
     {
         "id": 2,
         "name": "Whisky Royal Salute 700ml 21a",
         "image": "https://savegnagoio.vtexassets.com/arquivos/ids/372749-800-auto?v=638082792162700000&width=800&height=auto&aspect=true",
-        "price": 1.299,
+        "price": "1.299.00",
         "quantity": 0
     },
     {
         "id": 3,
         "name": "Whisky Johnnie Walker Red Label 1L",
         "image": "https://dcdn.mitiendanube.com/stores/001/043/122/products/whisky-johnnie-walker-red-label-1000-ml1-db0c8ab05ccad36d5f15671698491913-640-0.webp",
-        "price": 89.90,
+        "price": "89.90",
         "quantity": 0
     },
     {
         "id": 4,
         "name": "Whisky Jack Daniels Apple 1L",
         "image": "https://media.soujusto.com.br/products/9102.png",
-        "price": 159.00,
+        "price": "159.00",
         "quantity": 0
     },
     {
         "id": 5,
         "name": "Whisky Ballantines Finest 750Ml",
         "image": "https://images.tcdn.com.br/img/img_prod/1140249/ballantines_finest_750ml_whisky_67_1_7b72d201aff4f89a1ef8505246a76490.png",
-        "price": 89.90,
+        "price": "89.90",
         "quantity": 0
     },
     {
         "id": 6,
         "name": "Whisky Jack Daniels Honey 1L",
         "image": "https://www.planetaaguaadega.com.br/uploads/img/550/whisky-jack-daniels-honey-1l-6a2c37e1605a5011fdb2d86cc06f1166.webp",
-        "price": 159.00,
+        "price": "159.00",
         "quantity": 0
     }  
   ],
