@@ -264,27 +264,51 @@
   "cervejas": [
     {
       "id": 43,
-      "name": "Brahma Pilsen 550ml - 12 Unidades",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQffNLxm_VD9E_pbk7VQxvjZqRJLA2SG5RNwtlad4uxz9qc7OJGMOzCaF-SIkU9tz7ufzhM7Z_Exxecfh_RsUYVhqk4vVywW9aCtYm2uxBlRrV09nEgp9G3",
+      "name": "Cerveja Brahma Pilsen 550ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/131-cerveja-brahma-lata-350ml.jpg?s=59f260b5b86f5c3606fa2e7de9ce40f3",
       "price": 38.90
     },
     {
       "id": 44,
       "name": "Cerveja Budweiser 550ml - 12 Unidades",
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQplbrQVZL52YatQXd6KXllew3NuWgXKLabQiAWPOPrXF9c7odYDO3YOcItUS8i4MnrExNn8vpCpJ_YyZ2edYpNWCZwPHkKQI-Aa80t4lNtEGJ3ew8yJS5FxQ",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/87452-cerveja-budweiser-american-lager-lata-269ml.20230419091806.jpg?fm=webp&s=3accf47139c94404f7e033249ab6bd19",
       "price": 39.90
     },
     {
       "id": 45,
-      "name": "Cerveja Puro Malte 269ml - 12 Unidades",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqDFmrGTdl10XaBQVQ0z77ws4sV2qAG8KPGaT-c9pr1x347qV4sAe-KreVmMJK7_CsKsHfA35dwuCANpsq4qwDGVNJWcn3z-MIyD0X77Yl6f9wLE0KzBltZg",
+      "name": "Cerveja Spaten Puro Malte 269ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/88939-cerveja-spaten-lata-350ml.jpg?fm=webp&s=5c8bba96dffab13fdc3bd604da253ea0",
       "price": 38.20
     },
     {
       "id": 46,
-      "name": "Cerveja Lata Heineken 269ml - 12 Unidades",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWZNLqvFBbpdpadxVceBbcz--8D_8cYSJXjYLWMCPvJC-vXpL1uof_FNXyyLkLUpvDE96CqLkVw_MbFkud9MGLfQv6Vjo5Uuvat_zVI3dFExmUsK-sJ-47",
+      "name": "Cerveja Heineken 269ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/221-cerveja-heineken-lata-350-ml.20230928142110.jpg?s=4e3475ef48f860a0a8d75e0eef6530d2",
       "price": 49.90
+    },
+    {
+      "id": 45,
+      "name": "Cerveja Budweiser 550ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/87452-cerveja-budweiser-american-lager-lata-269ml.20230419091806.jpg?fm=webp&s=3accf47139c94404f7e033249ab6bd19",
+      "price": 39.90
+    },
+    {
+      "id": 47,
+      "name": "Cerveja Heineken 269ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/221-cerveja-heineken-lata-350-ml.20230928142110.jpg?s=4e3475ef48f860a0a8d75e0eef6530d2",
+      "price": 49.90
+    },
+    {
+      "id": 48,
+      "name": "Cerveja Brahma Pilsen 550ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/131-cerveja-brahma-lata-350ml.jpg?s=59f260b5b86f5c3606fa2e7de9ce40f3",
+      "price": 38.90
+    },
+    {
+      "id": 49,
+      "name": "Cerveja Spaten Puro Malte 269ml - 12 Unidades",
+      "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/88939-cerveja-spaten-lata-350ml.jpg?fm=webp&s=5c8bba96dffab13fdc3bd604da253ea0",
+      "price": 38.20
     }
   ]
 }
