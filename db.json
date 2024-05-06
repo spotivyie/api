@@ -88,25 +88,25 @@
     },
     {
       "id": 15,
-      "name": "Vodka Belvedere 1000ml",
+      "name": "Vodka Belvedere 1L",
       "image": "https://www.scotchstore.com.br/img/products/vodka-belvedere-natural-3000-ml_1_1000.webp",
       "price": 142.00
     },
     {
       "id": 16,
-      "name": "Vodka Absolut 1000ml",
+      "name": "Vodka Absolut 1L",
       "image": "https://www.scotchstore.com.br/img/products/vodka-absolut-1000-ml_1_1000.webp",
       "price": 119.00
     },
     {
       "id": 17,
-      "name": "Vodka Belvedere 1000ml",
+      "name": "Vodka Belvedere 1L",
       "image": "https://www.scotchstore.com.br/img/products/vodka-belvedere-natural-3000-ml_1_1000.webp",
       "price": 142.00
     },
     {
       "id": 18,
-      "name": "Vodka Absolut 1000ml",
+      "name": "Vodka Absolut 1L",
       "image": "https://www.scotchstore.com.br/img/products/vodka-absolut-1000-ml_1_1000.webp",
       "price": 119.00
     },
@@ -188,13 +188,13 @@
     },
     {
       "id": 31,
-      "name": "Licor Amarula 720 ml",
+      "name": "Licor Amarula 720ml",
       "image": "https://www.scotchstore.com.br/img/products/licor-amarula-750-ml_1_1000.webp",
       "price": 130.90
     },
     {
       "id": 32,
-      "name": "Licor Disaronno 700 ml",
+      "name": "Licor Disaronno 700ml",
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGkIOLMGppQ_TuvPBhdUozH24HiNci8RQIRAibyWoY1IB9rh-am4r1OfMCqmOFJYISzodKFdIJOcKrC87l8FTx7kbeFv2BbB-0DCVnxslWTp2xsj2ELBBe",
       "price": 159.90
     },
@@ -226,7 +226,7 @@
   "vinho": [
     {
       "id": 37,
-      "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec",
+      "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec 750ml",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJWNV0Rlsx4yLsooyE-jO3irjWLYKnqmHW5HYMkOUV5wQDfEpGmcq496jDV_JL8h5xObhgJMgTcPkEqTnlGD7pRhPgdPmaR70N6X_40VN1Ey5kc4-ERwT_",
       "price": 241.90
     },
@@ -244,7 +244,7 @@
     },
     {
       "id": 40,
-      "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec",
+      "name": "Catena Vinho Tinto Argentino Dv Cabernet Malbec 750ml",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJWNV0Rlsx4yLsooyE-jO3irjWLYKnqmHW5HYMkOUV5wQDfEpGmcq496jDV_JL8h5xObhgJMgTcPkEqTnlGD7pRhPgdPmaR70N6X_40VN1Ey5kc4-ERwT_",
       "price": 241.90
     },
@@ -352,13 +352,13 @@
     },
     {
       "id": 56,
-      "name": "Whisky Old Parr Grand 1000Ml",
+      "name": "Whisky Old Parr Grand 1L",
       "image": "https://www.scotchstore.com.br/img/products/whisky-old-parr-1000-ml_1_1000.webp",
       "price": 194.00
     },
     {
       "id": 57,
-      "name": "Vodka Absolut 1000ml",
+      "name": "Vodka Absolut 1L",
       "image": "https://www.scotchstore.com.br/img/products/vodka-absolut-1000-ml_1_1000.webp",
       "price": 119.00
     }
