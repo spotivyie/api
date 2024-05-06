@@ -310,5 +310,57 @@
       "image": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/88939-cerveja-spaten-lata-350ml.jpg?fm=webp&s=5c8bba96dffab13fdc3bd604da253ea0",
       "price": 38.20
     }
+  ],
+  "bebidas": [
+    {
+      "id": 50,
+      "name": "Whisky Jack Daniels 1L",
+      "image": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
+      "price": 159.00
+    },
+    {
+      "id": 51,
+      "name": "Whisky Royal Salute 700ml 21a",
+      "image": "https://savegnagoio.vtexassets.com/arquivos/ids/372749-800-auto?v=638082792162700000&width=800&height=auto&aspect=true",
+      "price": "1.299.00"
+    },
+    {
+      "id": 52,
+      "name": "Whisky Johnnie Walker Red Label 1L",
+      "image": "https://dcdn.mitiendanube.com/stores/001/043/122/products/whisky-johnnie-walker-red-label-1000-ml1-db0c8ab05ccad36d5f15671698491913-640-0.webp",
+      "price": 89.90
+    },
+    {
+      "id": 53,
+      "name": "Whisky Jack Daniels Apple 1L",
+      "image": "https://media.soujusto.com.br/products/9102.png",
+      "price": 159.00
+    }
+  ],
+  "vendidos": [
+    {
+      "id": 54,
+      "name": "Whisky Jack Daniels Honey 1L",
+      "image": "https://www.planetaaguaadega.com.br/uploads/img/550/whisky-jack-daniels-honey-1l-6a2c37e1605a5011fdb2d86cc06f1166.webp",
+      "price": 159.00
+    },
+    {
+      "id": 55,
+      "name": "Whisky Jack Daniels Apple 1L",
+      "image": "https://media.soujusto.com.br/products/9102.png",
+      "price": 159.00
+    },
+    {
+      "id": 56,
+      "name": "Vodka Skyy 980ml",
+      "image": "https://www.scotchstore.com.br/img/products/vodka-skyy-980-ml_1_1000.webp",
+      "price": 70.00
+    },
+    {
+      "id": 57,
+      "name": "Vodka Absolut 1000ml",
+      "image": "https://www.scotchstore.com.br/img/products/vodka-absolut-1000-ml_1_1000.webp",
+      "price": 119.00
+    }
   ]
 }
