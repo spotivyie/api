@@ -38,9 +38,9 @@
     },
     {
       "id": 7,
-      "name": "Whisky Jack Daniels 1L",
-      "image": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jacke.jpeg",
-      "price": 159.00
+      "name": "Whisky Buchanan's 1L",
+      "image": "https://www.sonoma.com.br/media/catalog/product/cache/bc47d7e9ba5dbb251b9d69beaf87b1e7/d/7/d79ea2a3c8b9542dc03fa937e5c8108b.jpeg",
+      "price": 130.00
     },
     {
       "id": 8,
@@ -320,15 +320,15 @@
     },
     {
       "id": 51,
-      "name": "Whisky Buchanans 1L",
-      "image": "https://www.sonoma.com.br/media/catalog/product/cache/bc47d7e9ba5dbb251b9d69beaf87b1e7/d/7/d79ea2a3c8b9542dc03fa937e5c8108b.jpeg",
-      "price": 120.00
-    },
-    {
-      "id": 52,
       "name": "Whisky Johnnie Walker Red Label 1L",
       "image": "https://dcdn.mitiendanube.com/stores/001/043/122/products/whisky-johnnie-walker-red-label-1000-ml1-db0c8ab05ccad36d5f15671698491913-640-0.webp",
       "price": 89.90
+    },
+    {
+      "id": 52,
+      "name": "Whisky Buchanan's 1L",
+      "image": "https://www.sonoma.com.br/media/catalog/product/cache/bc47d7e9ba5dbb251b9d69beaf87b1e7/d/7/d79ea2a3c8b9542dc03fa937e5c8108b.jpeg",
+      "price": 130.00
     },
     {
       "id": 53,
